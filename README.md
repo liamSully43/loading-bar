@@ -8,4 +8,5 @@ A loading/progress bar made with vanilla JS
 ## Known Issues
 None
 
+## Notes
 N/A
